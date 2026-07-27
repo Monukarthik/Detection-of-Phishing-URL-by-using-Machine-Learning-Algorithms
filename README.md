@@ -1,6 +1,6 @@
 # Detection-of-Phishing-URL-by-using-Machine-Learning-Algorithms
 ## Objective
-<br>The main objective of this project is to identify the Phishing URLs, based of various parameters like protocols, domains, sub-domains, extensions, and manny other parameters. A phishing Universsal Resource Locator(URL) is a URL, which mimics mimics trustful URLs, and try to steal your information. In this project, I trained a machine learning model on the dataset, collected from an open source Kaggle. I used the dataset on various machine learning algorithms, and chose XGBoost alogorithm, over other algorithms beacause of its high accuracy prediction.<br/>
+<br>The main objective of this project is to identify the Phishing URLs, based of various parameters like protocols, domains, sub-domains, extensions, and many other parameters. A phishing Universsal Resource Locator(URL) is a URL, which mimics mimics trustful URLs, and try to steal your information. In this project, I trained a machine learning model on the dataset, collected from an open source Kaggle. I used the dataset on various machine learning algorithms, and chose **Gradient Boosting** alogorithm, over other algorithms beacause of its high accuracy prediction.<br/>
 
 ## Model Training
 <br>This data set comes under classification problem, as the input URL is classified as phishing (1) or legitimate (0). The algorithms used to train the model using the dataset are:<br/>
